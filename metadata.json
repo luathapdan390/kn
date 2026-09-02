@@ -1,0 +1,6 @@
+{
+  "name": "IELTS 4.0-4.5 Practice Test",
+  "description": "Ứng dụng luyện thi trắc nghiệm tiếng Anh IELTS Band 4.0–4.5 với các phần Ngữ pháp, Từ vựng và Đọc hiểu dành cho học sinh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
